@@ -1,0 +1,9 @@
+{
+  "name": "react-training",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/abdulfataiaka/react-training.git",
+  "author": "Abdulfatai Aka <abdulfataiaka@gmail.com>",
+  "license": "MIT",
+  "dependencies": {}
+}
